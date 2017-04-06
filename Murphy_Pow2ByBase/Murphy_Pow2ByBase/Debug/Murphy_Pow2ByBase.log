@@ -1,0 +1,4 @@
+﻿  Murphy_Pow2ByBase.cpp
+d:\college\c++\c---week-12\murphy_pow2bybase\murphy_pow2bybase\murphy_pow2bybase.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Murphy_Pow2ByBase.vcxproj -> D:\College\c++\C---Week-12\Murphy_Pow2ByBase\Debug\Murphy_Pow2ByBase.exe
+  Murphy_Pow2ByBase.vcxproj -> D:\College\c++\C---Week-12\Murphy_Pow2ByBase\Debug\Murphy_Pow2ByBase.pdb (Full PDB)
